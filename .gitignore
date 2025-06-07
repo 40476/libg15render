@@ -1,0 +1,17 @@
+*.o
+INSTALL
+*.log
+*.out
+NEWS
+README
+*.lo
+autom4te.cache
+debian
+ChangeLog
+configure.status
+.deps
+config.h
+config.status
+libtool
+stamp-h1
+configure~
